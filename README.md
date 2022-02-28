@@ -4,14 +4,14 @@
 **angjaay/angjaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🎯 I’m currently Focusing on : Tailwind CSS
 - 🌱 I’m currently learning : Computer Science at University Computer of Indonesia
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: Catch and follow me from the above links 👆, in addition to follow me here.
 - ⚡ Fun fact: ...
--->
+
 </samp>
 
   <img src="https://c.tenor.com/9Nl8cDvHT3gAAAAC/im-the-craftsman-dialogue-box.gif" width="200"/>
