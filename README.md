@@ -67,4 +67,5 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=angjaay&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angjaay&show_icons=true&locale=en&layout=compact color=6FDA44&text_color=FFFFFF&theme=dark" alt="angjaay" /></p>
     </div>
