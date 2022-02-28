@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 </samp>
 
-  <img src="https://tenor.com/bHQ13.gif" width="200"/>
+  <img src="https://c.tenor.com/y0HnKKbCPAoAAAAC/duck-dancing-duck.gif" width="200"/>
 
 </p>
 
