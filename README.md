@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi, I'm Angga Cahya 👋
 
 <!--
 **angjaay/angjaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+
+  <img src="https://c.tenor.com/9Nl8cDvHT3gAAAAC/im-the-craftsman-dialogue-box.gif" width="200"/>
+
 - 🎯 I’m currently Focusing on : Tailwind CSS
 - 🌱 I’m currently learning : Computer Science at University Computer of Indonesia
 - 👯 I’m looking to collaborate on ...
@@ -13,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 </samp>
-
-  <img src="https://c.tenor.com/9Nl8cDvHT3gAAAAC/im-the-craftsman-dialogue-box.gif" width="200"/>
 
 </p>
 
