@@ -48,15 +48,11 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angjaay&show_icons=true&locale=en&layout=compact&theme=dark" height="200" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angjaay&show_icons=true&locale=en&theme=dark" alt="angjaay" height="200" /></p>
 </samp>
 </details>
 
-   </div>
-    <div align=>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=angjaay&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angjaay&show_icons=true&locale=en&layout=compact&theme=dark" height="200" /></p>
 
-    </div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angjaay&show_icons=true&locale=en&theme=dark" alt="angjaay" height="200" /></p>
+
