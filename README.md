@@ -49,9 +49,9 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 </p> 
 
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angjaay&show_icons=true&locale=en&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angjaay&show_icons=true&locale=en&layout=compact&theme=dark" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angjaay&show_icons=true&locale=en" alt="angjaay" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angjaay&show_icons=true&locale=en&theme=dark" alt="angjaay" width="410" /></p>
 </samp>
 </details>
 
