@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+Current Project: Coming soon!
 
 <p align="center">
 <a href="https://twitter.com/angga_cahyaa">
