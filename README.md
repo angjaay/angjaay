@@ -52,7 +52,8 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 </samp>
 </details>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angjaay&show_icons=true&locale=en&layout=compact&theme=dark" height="200" /></p>
+
+ <p><img src="https://github-readme-stats.vercel.app/api?username=angjaay&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angjaay&show_icons=true&locale=en&theme=dark" alt="angjaay" height="200" /></p>
 
