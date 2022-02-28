@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
 
 <p align="center">
-### Connect with me :smiley:
 <a href="https://twitter.com/cs_vedant">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
