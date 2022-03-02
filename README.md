@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Catch and follow me from the down below links 👇, in addition to follow me here.
 - ⚡ Fun fact: ...
 
+
+<h2>My resources</h2> </br>
+<img src="https://cdn-icons.flaticon.com/png/512/2374/premium/2374884.png?token=exp=1646232725~hmac=44edf6803726c176fec761519a41e81f" width="200"/>
+
 </samp>
 
 </p>
