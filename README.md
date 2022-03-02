@@ -45,10 +45,9 @@ Current Project: Coming soon!
 <a href="https://www.linkedin.com/in/angga-cahya/">
   <img align="left" alt="Vedant Jajoo Linkdin" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-  </br>
-
+ 
 </p>
-
+ </br> </br> </br>
  
 
 </samp>
