@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-  <img src="https://c.tenor.com/9Nl8cDvHT3gAAAAC/im-the-craftsman-dialogue-box.gif" width="200"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6977/6977338.png" width="300"/>
 
 - 🌱 I’m currently Learning : Tailwind CSS, Laravel
 - 🎓 I’m currently Studying : Computer Science at University Computer of Indonesia
