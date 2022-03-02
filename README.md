@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-### My resources </br></br>
+### My web resources 👇👇</br></br>
 <a href="https://www.notion.so/angzai/Angzai-s-Web-Resources-ebab3a4a6bda4df4b3f91b23061c43ce" ><img src="https://cdn-icons.flaticon.com/png/512/2374/premium/2374884.png?token=exp=1646232725~hmac=44edf6803726c176fec761519a41e81f" width="100"/></a>
 
 </samp>
