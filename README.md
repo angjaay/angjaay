@@ -36,16 +36,20 @@ Current Project: Coming soon!
 
 <p align="center">
 <a href="https://twitter.com/angga_cahyaa">
-  <img align="left" alt="Vedant Jajoo Twitter" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+  <img align="left" alt="Angga Twitter" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 <a href="https://dev.to/angzai">
-  <img align="left" alt="Vedant Jajoo DEV" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+  <img align="left" alt="Angga DEV" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/angga-cahya/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" alt="Angga Linkdin" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
- 
+  
+ <a href="https://dribbble.com/Angjaay">
+  <img align="left" alt="Angga Dribbble" width="50px" src="https://cdn.cdnlogo.com/logos/d/56/dribbble-icon.svg" />
+</a>
+
 </p>
  </br> </br> </br>
  
