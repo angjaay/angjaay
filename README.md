@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-  <img src="https://cdn-icons-png.flaticon.com/512/6977/6977338.png" width="300"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6974/6974919.pngg" width="250"/>
 
 - 🌱 I’m currently Learning : Tailwind CSS, Laravel
 - 🎓 I’m currently Studying : Computer Science at University Computer of Indonesia
