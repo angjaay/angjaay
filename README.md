@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
   <img src="https://cdn-icons-png.flaticon.com/512/6974/6974919.png" width="250"/>
 
-- 🌱 I’m currently Learning : Tailwind CSS, Laravel
+- 🌱 I’m currently Learning : Tailwind CSS, ReactJS
 - 🎓 I’m currently Studying : Computer Science at University Computer of Indonesia
 - 👯 I’m looking to collaborate on : Nothing, you can contact me if you want collaborating though! especially for frontend 😉
 - 💬 Ask me about ...
