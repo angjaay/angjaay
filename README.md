@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: Wibu-kan
+Current Project: **Bubbly Social**
 
 <p align="center">
 <a href="https://twitter.com/angga_cahyaa">
