@@ -83,7 +83,7 @@ Current Project: **Bubbly Social**
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-vscode-informational?style=flat&logo=vscode&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Vscode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=4AB197)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angjaay&show_icons=true&locale=en&layout=compact&theme=vue" alt="angjaay" height="150"  /></p>
 
