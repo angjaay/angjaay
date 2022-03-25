@@ -63,6 +63,6 @@ Current Project: **Bubbly Social**
  
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angjaay&theme=vue" width="730">
  
- <img src="https://github-profile-trophy.vercel.app/?username=angjaay">
+
 
 
