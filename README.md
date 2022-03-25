@@ -57,6 +57,20 @@ Current Project: **Bubbly Social**
 </samp>
 </details>
 
+## 💼 Skills
+
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angjaay&show_icons=true&locale=en&layout=compact&theme=vue" alt="angjaay" height="150"  /></p>
 
  <p><img src="https://github-readme-stats.vercel.app/api?username=angjaay&title_color=6FDA44&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=vue" alt="GitHub Stats" height="150" /></p>
