@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### My web resources 👇👇</br></br>
-<a href="https://www.notion.so/angzai/Angzai-s-Web-Resources-ebab3a4a6bda4df4b3f91b23061c43ce"  ><img src="[https://cdn-icons.flaticon.com/png/512/2144/premium/2144792.png?token=exp=1648224490~hmac=b31ea5518315da479ea410f82b53bb8](https://cdn-icons.flaticon.com/png/512/2374/premium/2374884.png?token=exp=1654306726~hmac=bcb0e740fd08ab2a23beef16e91f5d78)" width="100"/></a>
+<a href="https://www.notion.so/angzai/Angzai-s-Web-Resources-ebab3a4a6bda4df4b3f91b23061c43ce"  ><img src="https://cdn-icons.flaticon.com/png/512/2374/premium/2374884.png?token=exp=1654306726~hmac=bcb0e740fd08ab2a23beef16e91f5d78" width="100"/></a>
 
 
 </samp>
