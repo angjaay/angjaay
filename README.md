@@ -54,8 +54,8 @@ Current Project: **Bubbly Social**
   <img align="left" alt="Angga Linkdin" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
   
- <a href="https://dribbble.com/Angjaay">
-  <img align="left" alt="Angga Dribbble" width="50px" src="https://cdn.cdnlogo.com/logos/d/56/dribbble-icon.svg" />
+ <a href="https://www.figma.com/@angzai">
+  <img align="left" alt="Angga Figma" width="50px" src="https://cdn.cdnlogo.com/logos/f/54/figma.svg" />
 </a>
 
 </p>
