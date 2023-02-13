@@ -73,8 +73,9 @@ Current Project: **Bubbly Social**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-5391FE?style=for-the-badge&logo=Dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23121011.svg?style=for-the-badge&logo=php&logoColor=%474A8A)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/flutter-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23000000.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
