@@ -55,7 +55,7 @@ Current Project: **Bubbly Social**
 </a>
   
  <a href="https://www.figma.com/@angzai">
-  <img align="left" alt="Angga Figma" width="50px" src="https://cdn.cdnlogo.com/logos/f/54/figma.svg" />
+  <img align="left" alt="Angga Figma" width="50px" src="https://cdn.cdnlogo.com/logos/f/43/figma.svg" />
 </a>
 
 </p>
