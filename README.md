@@ -76,6 +76,7 @@ Current Project: **Bubbly Social**
 ![Flutter](https://img.shields.io/badge/flutter-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-667881?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![Laravel](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/next-%23000000.svg?style=for-the-badge&logo=next&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -95,7 +96,6 @@ Current Project: **Bubbly Social**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-667881?style=for-the-badge&logo=railway&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7)
