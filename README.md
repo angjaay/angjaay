@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on : Nothing, you can contact me if you want collaborating though! especially for frontend 😉
 - 💬 Ask me about ...
 - 📫 How to reach me: Catch and follow me from the down below links 👇, in addition to follow me here.
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: ...
 
 
 ### My web resources 👇👇</br></br>
