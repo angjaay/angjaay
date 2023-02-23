@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Catch and follow me from the down below links 👇, in addition to follow me here.
 - ⚡ Fun fact: ...
 
-
 ### My web resources 👇👇</br></br>
 <a href="https://www.notion.so/angzai/Angzai-s-Web-Resources-ebab3a4a6bda4df4b3f91b23061c43ce"  ><img src="https://raw.githubusercontent.com/angjaay/angjaay/master/image/treasure.png" width="100"/></a>
 
