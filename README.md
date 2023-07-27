@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-  <img src="https://cdn-icons-png.flaticon.com/512/6974/6974919.png" width="250"/>
-  
+ 
   
  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=angjaay&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/angjaay/angjaay?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
