@@ -15,7 +15,6 @@ Here are some ideas to get you started:
   </a> -->
 
 - 🌱 I’m currently Learning : Tailwind CSS, ReactJS, and Flutter
-- 🎓 I’m currently Studying : Computer Science at University Computer of Indonesia
 - 👯 I’m looking to collaborate on : Nothing, you can contact me if you want collaborating though! especially for frontend 😉
 - 💬 Ask me about ...
 - 📫 How to reach me: Catch and follow me from the down below links 👇, in addition to follow me here.
